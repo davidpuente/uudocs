@@ -1,0 +1,22 @@
+{
+  "name": "uudocs",
+  "version": "1.0.0",
+  "description": "Universal Design Documentation for Developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidpuente/uudocs.git"
+  },
+  "author": "Markus og David",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidpuente/uudocs/issues"
+  },
+  "homepage": "https://github.com/davidpuente/uudocs#readme",
+  "dependencies": {
+    "altinn-designsystem": "^1.0.1"
+  }
+}
